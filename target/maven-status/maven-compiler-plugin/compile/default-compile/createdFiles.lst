@@ -1,0 +1,7 @@
+im\route\api\httpproxy\ProxyServlet.class
+im\route\api\httpproxy\TargetUrlCache.class
+im\route\api\httpproxy\UriHostObject.class
+im\route\api\ImRouteApplication.class
+im\route\api\httpproxy\URITemplateProxyServlet.class
+im\route\api\controller\ImRouteController.class
+im\route\api\config\SolrProxyServletConfiguration.class
