@@ -16,6 +16,17 @@
 	<name>im-route-api</name>
 	<description>IM route api</description>
 
+
+	<distributionManagement>
+		<repository>
+			<!--必须与 settings.xml 的 id 一致-->
+			<id>ktech-risk-engine-maven-yelo</id>
+			<name>maven-yelo</name>
+			<url>https://ktech-maven.pkg.coding.net/repository/risk-engine/maven-yelo/</url>
+		</repository>
+	</distributionManagement>
+
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
