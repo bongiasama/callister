@@ -164,7 +164,7 @@ under the License.
 	<mirror>
 		<id>alimaven</id>
 		<name>aliyun maven</name>
-		<url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+		<url>http://mirrors.tencentyun.com/nexus/repository/maven-public/</url>
 		<mirrorOf>central</mirrorOf>        
 	</mirror>
   </mirrors>
